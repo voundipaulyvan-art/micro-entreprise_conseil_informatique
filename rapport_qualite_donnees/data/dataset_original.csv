@@ -1,0 +1,501 @@
+id,nom,prenom,email,date_naissance,pays,code_postal,chiffre_affaires_total,nb_projets,dernier_contact
+1,Nguyen,Paul,paul.nguyen@domain.com,%d/%m/%Y,Tunisie,16000,1 235,0,2024-01-10
+2,Haddad,Lucas,lucas.haddad@yahoo.com,%Y-%m-%d,france,01300,1905 €,0,10/01/2024
+3,Dupont,Awa,awa.dupont@gmail.com,%Y-%m-%d,TN,75 000,1144,17,10/01/2024
+4,BENALI,sophie,sophie.benali@gmail.com,%Y-%m-%d,MA,31000,8 751,20,10/01/2024
+5,Martin,Amine,amine.martin@domain.com,%Y-%m-%d,TN,75 000,4462,15,10/01/2024
+6,Haddad,awa,awa.haddad@domain.com,%d-%m-%Y,FR,01300,6396,11,2024/01/10
+7,Diallo,marie,marie diallo@outlook.com,%d/%m/%Y,Tunisie,75000,3962,19,2024-01-10
+8,Nguyen,karim,karim.nguyen@yahoo.com,%Y-%m-%d,TN,31000,4562 €,16,2024-01-10
+9,Nguyen,Lina,lina.nguyen@gmail.com,%d/%m/%Y,MA,31000,7542,17,2024/01/10
+10,Haddad,Sophie,sophie.haddad@domain.com,%Y-%m-%d,Tunisie,01300,9 151,17,10/01/2024
+11,Nguyen,Karim,karim.nguyen@yahoo.com,%d/%m/%Y,france,31000,10719,8,2024/01/10
+12,MARTIN,jean,jean martin@yahoo.com,%Y-%m-%d,DZ,75000,2 110,9,10/01/2024
+13,DURAND,Marie,marie durand@outlook.com,%d/%m/%Y,Tunisie,01300,2 031,9,10/01/2024
+14,Benali,lucas,lucas benali@yahoo.com,%d-%m-%Y,MA,75000,10529 €,12,10/01/2024
+15,Dupont,paul,paul.dupont@yahoo.com,%Y-%m-%d,TN,16000,13604 €,20,10/01/2024
+16,Haddad,Jean,jean.haddad@outlook.com,%Y-%m-%d,FR,75 000,9920,2,10/01/2024
+17,Moreau,Amine,amine.moreaugmail.com,%d-%m-%Y,Algerie,31000,13921,19,2024-01-10
+18,Dupont,Awa,awa.dupont@domain.com,%d-%m-%Y,Algerie,16000,10287 €,12,2024/01/10
+19,Leroy,Amine,amine.leroy@gmail.com,%d/%m/%Y,FR,75 000,12825,18,10/01/2024
+20,Benali,paul,paul benali@outlook.com,%Y-%m-%d,TN,16000,12032,2,10/01/2024
+21,MARTIN,jean,jean.martin@outlook.com,%Y-%m-%d,TN,01300,4098,9,2024-01-10
+22,Nguyen,Sophie,sophie.nguyen@gmail.com,%Y-%m-%d,Maroc,75000,3669,4,10/01/2024
+23,BENALI,Paul,paul.benaliyahoo.com,%d-%m-%Y,france,01300,1015,17,2024-01-10
+24,Diallo,marie,marie diallo@gmail.com,%Y-%m-%d,france,16000,13313 €,1,2024/01/10
+25,Petit,Sophie,sophie petit@yahoo.com,%d-%m-%Y,FR,75000,10832,17,2024/01/10
+26,LEROY,Amine,amine leroy@gmail.com,%d/%m/%Y,France,75000,4047,19,2024/01/10
+27,Diallo,Lina,lina diallo@domain.com,%d/%m/%Y,france,01300,4428 €,19,10/01/2024
+28,Diallo,awa,awa.diallo@yahoo.com,%d/%m/%Y,Maroc,75000,11 835,14,2024/01/10
+29,Nguyen,Marie,marie.nguyen@outlook.com,%Y-%m-%d,FR,01300,10504,9,2024/01/10
+30,BENALI,Sophie,sophie.benaliyahoo.com,%d-%m-%Y,France,75 000,2679,2,10/01/2024
+31,Dupont,marie,marie.dupont@yahoo.com,%Y-%m-%d,france,31000,2214,16,2024/01/10
+32,Durand,Paul,paul.durand@gmail.com,%Y-%m-%d,TN,31000,6848 €,6,10/01/2024
+33,Leroy,paul,paul.leroy@yahoo.com,%d/%m/%Y,FR,01300,11 061,7,2024-01-10
+34,Martin,Amine,amine.martin@domain.com,%Y-%m-%d,TN,16000,6373 €,10,10/01/2024
+35,Moreau,Paul,paul.moreau@gmail.com,%d-%m-%Y,France,01300,13852,4,10/01/2024
+36,Moreau,Amine,amine.moreau@gmail.com,%d-%m-%Y,FR,31000,14826,14,2024-01-10
+37,Petit,Sophie,sophie.petit@outlook.com,%d/%m/%Y,TN,31000,1715,8,10/01/2024
+38,Dupont,Sophie,sophie.dupont@yahoo.com,%Y-%m-%d,DZ,01300,6195,11,2024-01-10
+39,Diallo,Paul,paul.diallo@domain.com,%Y-%m-%d,FR,75 000,8710 €,6,2024-01-10
+40,Dupont,Karim,karim.dupont@yahoo.com,%d/%m/%Y,TN,75000,14 252,8,10/01/2024
+41,Moreau,marie,marie.moreau@gmail.com,%Y-%m-%d,Tunisie,75 000,8676,13,2024/01/10
+42,Durand,Lucas,lucas.durand@yahoo.com,%Y-%m-%d,france,16000,1269,3,2024/01/10
+43,MOREAU,Amine,amine moreau@domain.com,%Y-%m-%d,France,75000,11119,8,10/01/2024
+44,DURAND,Sophie,sophie.durand@outlook.com,%Y-%m-%d,Tunisie,75 000,10930,3,2024-01-10
+45,Nguyen,sophie,sophie.nguyen@gmail.com,%Y-%m-%d,france,31000,11656,20,2024-01-10
+46,Martin,Paul,paul.martin@outlook.com,%d/%m/%Y,TN,01300,9798 €,14,2024-01-10
+47,Benali,Claire,claire.benali@domain.com,%d/%m/%Y,france,16000,1152,8,2024/01/10
+48,LEROY,Karim,karim.leroy@outlook.com,%d/%m/%Y,FR,16000,3178,11,2024-01-10
+49,Dupont,Awa,awa.dupont@gmail.com,%Y-%m-%d,Tunisie,75 000,13554,20,2024/01/10
+50,Haddad,jean,jean.haddad@outlook.com,%Y-%m-%d,FR,75000,11066,11,2024/01/10
+51,Haddad,Amine,amine haddad@domain.com,%d-%m-%Y,FR,16000,9519,3,2024-01-10
+52,HADDAD,karim,karim.haddad@yahoo.com,%d-%m-%Y,france,16000,8183,9,10/01/2024
+53,LEROY,Sophie,sophie.leroyoutlook.com,%d/%m/%Y,Tunisie,31000,11 410,9,2024-01-10
+54,Moreau,Awa,awa.moreau@domain.com,%d-%m-%Y,DZ,31000,2968,19,2024/01/10
+55,Dupont,Sophie,sophie.dupont@yahoo.com,%d/%m/%Y,DZ,75 000,4981 €,5,10/01/2024
+56,Diallo,Karim,karim diallo@domain.com,%d-%m-%Y,TN,75 000,1609 €,4,10/01/2024
+57,Benali,Claire,claire benali@outlook.com,%Y-%m-%d,france,75000,4082 €,10,2024-01-10
+58,Martin,claire,claire.martinyahoo.com,%d/%m/%Y,France,16000,4640,19,10/01/2024
+59,Benali,claire,claire.benali@yahoo.com,%d/%m/%Y,MA,75 000,4303,5,2024-01-10
+60,Petit,Sophie,sophie.petit@outlook.com,%d/%m/%Y,Maroc,16000,9147,2,10/01/2024
+61,Dupont,Jean,jean.dupont@outlook.com,%d/%m/%Y,Algerie,16000,6006 €,20,10/01/2024
+62,DUPONT,paul,paul.dupontdomain.com,%Y-%m-%d,DZ,75 000,8796 €,20,2024/01/10
+63,DUPONT,amine,amine.dupontoutlook.com,%d/%m/%Y,france,16000,1696 €,0,2024-01-10
+64,Durand,Claire,claire.durand@domain.com,%d/%m/%Y,Maroc,01300,9642,7,10/01/2024
+65,Dupont,Sophie,sophie dupont@gmail.com,%d/%m/%Y,Maroc,31000,3 468,17,10/01/2024
+66,Martin,Lucas,lucas.martin@outlook.com,%Y-%m-%d,FR,75000,7165 €,6,2024-01-10
+67,DUPONT,lucas,lucas.dupont@outlook.com,%d/%m/%Y,france,01300,3267 €,17,10/01/2024
+68,Diallo,Jean,jean.diallo@domain.com,%d/%m/%Y,France,31000,6423 €,8,10/01/2024
+69,Martin,Lina,lina martin@yahoo.com,%Y-%m-%d,DZ,16000,6582,9,10/01/2024
+70,Haddad,Marie,marie.haddad@domain.com,%Y-%m-%d,Tunisie,75000,13188 €,14,2024/01/10
+71,Leroy,Awa,awa.leroy@outlook.com,%d/%m/%Y,FR,75 000,5547,3,2024-01-10
+72,BENALI,lucas,lucas.benali@outlook.com,%d-%m-%Y,MA,01300,12566,16,2024-01-10
+73,Dupont,awa,awa.dupont@outlook.com,%d/%m/%Y,france,16000,13351,11,10/01/2024
+74,Martin,Lucas,lucas martin@outlook.com,%d/%m/%Y,Algerie,31000,13833,20,2024/01/10
+75,Haddad,Lina,lina.haddad@gmail.com,%Y-%m-%d,FR,01300,14907,3,2024-01-10
+76,Haddad,Paul,paul.haddad@outlook.com,%d-%m-%Y,france,75 000,8456 €,20,10/01/2024
+77,Leroy,Karim,karim.leroy@yahoo.com,%Y-%m-%d,TN,16000,2311 €,11,2024-01-10
+78,MOREAU,claire,claire.moreau@yahoo.com,%d-%m-%Y,MA,16000,8498,6,2024-01-10
+79,Martin,Claire,claire.martin@domain.com,%d/%m/%Y,TN,16000,6731 €,19,2024-01-10
+80,Nguyen,awa,awa.nguyen@yahoo.com,%Y-%m-%d,DZ,75000,6716,16,10/01/2024
+81,Leroy,Lina,lina.leroy@domain.com,%d-%m-%Y,DZ,16000,1591,18,10/01/2024
+82,Leroy,Paul,paul.leroydomain.com,%Y-%m-%d,France,01300,8788,0,2024-01-10
+83,Martin,Marie,marie.martin@outlook.com,%d/%m/%Y,Tunisie,01300,12242,15,2024-01-10
+84,Durand,lina,lina durand@yahoo.com,%Y-%m-%d,DZ,16000,10487 €,16,2024/01/10
+85,Haddad,Amine,amine.haddad@domain.com,%d-%m-%Y,MA,16000,14811 €,4,2024/01/10
+86,DURAND,sophie,sophie.durand@gmail.com,%d-%m-%Y,MA,75 000,9 583,19,10/01/2024
+87,LEROY,Jean,jean leroy@gmail.com,%d-%m-%Y,TN,16000,11684,8,2024/01/10
+88,Durand,Amine,amine.durand@gmail.com,%Y-%m-%d,MA,75000,11980,16,2024-01-10
+89,HADDAD,Claire,claire haddad@yahoo.com,%Y-%m-%d,FR,31000,12987 €,17,10/01/2024
+90,Diallo,Amine,amine.diallo@outlook.com,%d-%m-%Y,Tunisie,75000,13975 €,11,10/01/2024
+91,Dupont,Amine,amine.dupont@yahoo.com,%d/%m/%Y,TN,01300,10303 €,7,2024-01-10
+92,DURAND,lucas,lucas.durand@gmail.com,%d-%m-%Y,TN,31000,14002,8,2024/01/10
+93,Diallo,amine,amine.diallo@domain.com,%Y-%m-%d,Algerie,01300,10954 €,5,2024/01/10
+94,Diallo,karim,karim.diallo@yahoo.com,%d/%m/%Y,Maroc,31000,13612,4,2024-01-10
+95,MOREAU,Paul,paul.moreauyahoo.com,%Y-%m-%d,france,75 000,4572,9,2024/01/10
+96,BENALI,lucas,lucas.benali@gmail.com,%d/%m/%Y,Algerie,01300,2191,10,10/01/2024
+97,Nguyen,Amine,amine nguyen@gmail.com,%Y-%m-%d,DZ,75 000,6 782,2,2024/01/10
+98,MARTIN,marie,marie.martin@gmail.com,%d/%m/%Y,FR,16000,7602,7,10/01/2024
+99,BENALI,Marie,marie.benali@outlook.com,%d-%m-%Y,FR,31000,6785,2,2024/01/10
+100,Nguyen,Karim,karim.nguyen@outlook.com,%Y-%m-%d,Algerie,01300,14 360,16,2024/01/10
+101,DURAND,Marie,marie.durandoutlook.com,%d-%m-%Y,TN,01300,10516,3,10/01/2024
+102,Martin,Lina,lina.martin@gmail.com,%d-%m-%Y,DZ,16000,8 424,18,2024/01/10
+103,Petit,Paul,paul.petit@outlook.com,%Y-%m-%d,FR,75 000,5720,14,2024-01-10
+104,Martin,lucas,lucas.martin@gmail.com,%d-%m-%Y,TN,75000,3171,12,2024-01-10
+105,Martin,Awa,awa.martin@outlook.com,%d-%m-%Y,MA,16000,8 871,15,10/01/2024
+106,Dupont,Jean,jean.dupont@outlook.com,%d-%m-%Y,TN,01300,4452,20,2024-01-10
+107,Diallo,lina,lina.diallo@outlook.com,%Y-%m-%d,FR,75000,13206,10,2024/01/10
+108,BENALI,Lucas,lucas.benali@domain.com,%Y-%m-%d,MA,16000,11766,10,10/01/2024
+109,Petit,Claire,claire petit@yahoo.com,%d/%m/%Y,TN,16000,12988,3,10/01/2024
+110,Dupont,karim,karim.dupont@domain.com,%d-%m-%Y,Algerie,75000,8125 €,10,2024/01/10
+111,Diallo,Sophie,sophie.diallo@yahoo.com,%d-%m-%Y,MA,16000,7 045,15,2024-01-10
+112,DURAND,Amine,amine durandgmail.com,%d/%m/%Y,FR,16000,9342,9,2024/01/10
+113,Durand,Paul,paul.duranddomain.com,%Y-%m-%d,Algerie,31000,13812,17,2024-01-10
+114,Haddad,Sophie,sophie.haddad@yahoo.com,%d-%m-%Y,FR,16000,2996,13,10/01/2024
+115,Dupont,Sophie,sophie.dupont@gmail.com,%Y-%m-%d,Algerie,16000,5 978,20,2024/01/10
+116,HADDAD,jean,jean.haddadyahoo.com,%Y-%m-%d,France,75000,12517,8,10/01/2024
+117,Durand,Lucas,lucas.durand@domain.com,%d-%m-%Y,TN,16000,11657,12,2024/01/10
+118,Diallo,Sophie,sophie diallo@yahoo.com,%Y-%m-%d,france,01300,12 205,8,10/01/2024
+119,Benali,Amine,amine benali@outlook.com,%Y-%m-%d,Algerie,75 000,1601 €,18,10/01/2024
+120,NGUYEN,Awa,awa.nguyen@domain.com,%d-%m-%Y,MA,75 000,8295 €,2,2024/01/10
+121,DUPONT,Paul,paul.dupont@yahoo.com,%Y-%m-%d,TN,31000,9602 €,7,2024-01-10
+122,DURAND,Lucas,lucas.durand@yahoo.com,%d-%m-%Y,Algerie,01300,2088,17,2024/01/10
+123,Martin,amine,amine.martingmail.com,%d-%m-%Y,Maroc,16000,8988 €,1,2024/01/10
+124,BENALI,jean,jean.benali@gmail.com,%Y-%m-%d,MA,31000,8463 €,6,2024/01/10
+125,Leroy,Awa,awa.leroy@domain.com,%Y-%m-%d,TN,75 000,1317,0,2024/01/10
+126,Petit,Marie,marie.petit@yahoo.com,%d/%m/%Y,DZ,75000,4236,17,2024/01/10
+127,Petit,Awa,awa.petit@outlook.com,%d-%m-%Y,Tunisie,75000,8802,5,2024-01-10
+128,Dupont,awa,awa.dupont@outlook.com,%d/%m/%Y,Algerie,75000,12754 €,1,10/01/2024
+129,DIALLO,lucas,lucas.diallo@domain.com,%d/%m/%Y,TN,01300,7825 €,11,10/01/2024
+130,Martin,karim,karim martin@yahoo.com,%Y-%m-%d,DZ,16000,7509 €,16,2024/01/10
+131,Nguyen,Marie,marie.nguyen@outlook.com,%d/%m/%Y,MA,01300,5946,1,2024/01/10
+132,DIALLO,Awa,awa.diallo@outlook.com,%d/%m/%Y,france,31000,5132,13,2024-01-10
+133,Leroy,Lucas,lucas leroy@gmail.com,%Y-%m-%d,france,01300,6278,17,2024/01/10
+134,Benali,Jean,jean.benali@domain.com,%Y-%m-%d,Maroc,31000,9121,5,10/01/2024
+135,BENALI,Lina,lina benali@outlook.com,%d/%m/%Y,TN,16000,14058,8,10/01/2024
+136,BENALI,karim,karim.benali@outlook.com,%d/%m/%Y,MA,31000,12428 €,19,10/01/2024
+137,Martin,Marie,marie.martin@yahoo.com,%d-%m-%Y,DZ,31000,5944,6,2024-01-10
+138,Moreau,marie,marie.moreau@yahoo.com,%Y-%m-%d,TN,75000,14954,9,10/01/2024
+139,DURAND,Awa,awa.durandoutlook.com,%d/%m/%Y,MA,75 000,12 556,18,2024-01-10
+140,HADDAD,Awa,awa.haddad@gmail.com,%Y-%m-%d,DZ,16000,6138 €,1,10/01/2024
+141,Diallo,Lina,lina.diallo@gmail.com,%d-%m-%Y,France,16000,9511 €,8,2024/01/10
+142,DUPONT,Awa,awa dupont@gmail.com,%Y-%m-%d,TN,75 000,6095 €,9,2024-01-10
+143,Diallo,Sophie,sophie.dialloyahoo.com,%d/%m/%Y,Algerie,31000,11754 €,18,2024/01/10
+144,Nguyen,lucas,lucas nguyen@domain.com,%Y-%m-%d,Maroc,01300,12982 €,13,2024/01/10
+145,Leroy,Sophie,sophie.leroy@domain.com,%d-%m-%Y,Tunisie,31000,5890,16,2024-01-10
+146,Nguyen,Amine,amine.nguyen@gmail.com,%d/%m/%Y,France,16000,2594,16,2024-01-10
+147,Petit,Claire,claire.petit@domain.com,%Y-%m-%d,MA,75000,4621,0,10/01/2024
+148,Leroy,Amine,amine leroy@gmail.com,%d/%m/%Y,Algerie,75000,6354,20,2024/01/10
+149,Durand,marie,marie.durand@gmail.com,%d-%m-%Y,FR,31000,11336,9,2024/01/10
+150,Haddad,Amine,amine.haddad@gmail.com,%Y-%m-%d,Algerie,16000,5439,19,2024-01-10
+151,PETIT,Sophie,sophie.petit@outlook.com,%d-%m-%Y,Maroc,75000,11075,14,10/01/2024
+152,Durand,claire,claire.durand@domain.com,%d-%m-%Y,Maroc,31000,7010 €,20,2024-01-10
+153,Leroy,Amine,amine.leroy@domain.com,%d-%m-%Y,france,31000,6217 €,19,2024/01/10
+154,Haddad,amine,amine haddad@yahoo.com,%Y-%m-%d,FR,01300,8058,2,2024-01-10
+155,Dupont,Sophie,sophie.dupontgmail.com,%d/%m/%Y,France,75000,13852,0,2024/01/10
+156,Dupont,Karim,karim.dupont@outlook.com,%d-%m-%Y,Algerie,75 000,5830 €,1,10/01/2024
+157,Leroy,sophie,sophie.leroy@yahoo.com,%d-%m-%Y,TN,75000,1814,5,10/01/2024
+158,MARTIN,Amine,amine.martindomain.com,%Y-%m-%d,FR,75 000,11983 €,9,10/01/2024
+159,Dupont,Lina,lina.dupont@gmail.com,%d/%m/%Y,France,75 000,9187 €,3,2024/01/10
+160,Petit,Marie,marie.petit@gmail.com,%d-%m-%Y,DZ,75 000,12806,19,2024-01-10
+161,HADDAD,Lucas,lucas.haddad@outlook.com,%Y-%m-%d,FR,31000,1944,13,2024/01/10
+162,Leroy,Amine,amine.leroy@domain.com,%d-%m-%Y,Tunisie,01300,1732,15,2024-01-10
+163,Dupont,Awa,awa.dupont@yahoo.com,%Y-%m-%d,FR,16000,5 753,5,2024/01/10
+164,NGUYEN,Marie,marie.nguyen@domain.com,%d/%m/%Y,DZ,75000,13810,14,2024-01-10
+165,Durand,marie,marie durand@gmail.com,%d/%m/%Y,Algerie,01300,14259,11,10/01/2024
+166,Benali,awa,awa.benalioutlook.com,%d/%m/%Y,Algerie,75000,11885 €,9,10/01/2024
+167,Nguyen,Lina,lina nguyen@gmail.com,%d-%m-%Y,Algerie,75000,10814,16,2024-01-10
+168,DURAND,amine,amine.durand@domain.com,%d/%m/%Y,Tunisie,31000,1 312,11,2024/01/10
+169,Haddad,sophie,sophie.haddad@yahoo.com,%d-%m-%Y,France,75 000,1 373,11,10/01/2024
+170,NGUYEN,Marie,marie.nguyen@yahoo.com,%d-%m-%Y,Maroc,75 000,8880,0,2024-01-10
+171,Benali,Sophie,sophie.benali@domain.com,%d/%m/%Y,TN,01300,6516 €,2,10/01/2024
+172,Benali,Awa,awa.benali@outlook.com,%d/%m/%Y,france,16000,12024,8,2024-01-10
+173,BENALI,marie,marie.benali@outlook.com,%Y-%m-%d,DZ,16000,10 078,5,2024/01/10
+174,DUPONT,Amine,amine.dupont@domain.com,%Y-%m-%d,DZ,31000,10859 €,5,2024/01/10
+175,Durand,Lina,lina.durand@yahoo.com,%Y-%m-%d,MA,16000,14442 €,15,2024-01-10
+176,Dupont,sophie,sophie.dupontdomain.com,%Y-%m-%d,Tunisie,01300,2888,18,10/01/2024
+177,HADDAD,Claire,claire.haddad@yahoo.com,%Y-%m-%d,Maroc,75000,5602,11,2024/01/10
+178,Petit,Claire,claire.petitoutlook.com,%Y-%m-%d,Algerie,75 000,3962 €,1,2024/01/10
+179,Nguyen,Lina,lina.nguyen@yahoo.com,%d/%m/%Y,France,16000,9336,12,2024-01-10
+180,Martin,claire,claire martin@outlook.com,%Y-%m-%d,Algerie,31000,4820,16,2024-01-10
+181,MOREAU,Awa,awa.moreau@yahoo.com,%Y-%m-%d,DZ,75 000,6967,10,10/01/2024
+182,Haddad,Marie,marie.haddad@domain.com,%d/%m/%Y,Tunisie,31000,11244,1,2024-01-10
+183,MARTIN,Marie,marie.martin@domain.com,%d-%m-%Y,TN,31000,11402 €,6,2024/01/10
+184,Diallo,karim,karim.diallo@outlook.com,%d-%m-%Y,FR,75000,11962,2,2024/01/10
+185,Petit,Awa,awa.petit@domain.com,%d-%m-%Y,France,16000,9570 €,13,2024-01-10
+186,Benali,claire,claire.benali@domain.com,%d-%m-%Y,TN,75 000,6841,4,2024/01/10
+187,PETIT,Karim,karim.petit@yahoo.com,%d/%m/%Y,france,75000,6626,11,2024/01/10
+188,Benali,Awa,awa.benali@outlook.com,%d/%m/%Y,DZ,31000,8560,9,2024-01-10
+189,Martin,Paul,paul.martin@outlook.com,%d/%m/%Y,Maroc,16000,7151,20,2024/01/10
+190,Nguyen,Lina,lina.nguyen@domain.com,%d/%m/%Y,TN,75 000,10065 €,17,2024/01/10
+191,Nguyen,sophie,sophie.nguyen@gmail.com,%d/%m/%Y,Maroc,16000,11779,11,10/01/2024
+192,Nguyen,Karim,karim.nguyen@outlook.com,%d-%m-%Y,Algerie,01300,10131,5,2024/01/10
+193,Haddad,Jean,jean.haddad@yahoo.com,%d/%m/%Y,Algerie,75000,14123,6,2024/01/10
+194,Martin,Amine,amine martin@yahoo.com,%d/%m/%Y,france,31000,2983,5,2024-01-10
+195,Durand,Lina,lina.durand@outlook.com,%Y-%m-%d,Algerie,75 000,9869 €,17,2024-01-10
+196,DURAND,Paul,paul durand@outlook.com,%d/%m/%Y,Maroc,31000,6085 €,11,2024/01/10
+197,PETIT,Paul,paul.petit@gmail.com,%d-%m-%Y,FR,31000,6479,6,2024/01/10
+198,DURAND,Lina,lina.durand@gmail.com,%Y-%m-%d,TN,16000,6172,6,2024/01/10
+199,MOREAU,Jean,jean moreau@gmail.com,%Y-%m-%d,MA,01300,11030 €,18,10/01/2024
+200,Diallo,awa,awa.diallo@domain.com,%d-%m-%Y,MA,16000,12172,6,10/01/2024
+201,MARTIN,sophie,sophie.martin@domain.com,%Y-%m-%d,france,75000,6159 €,16,2024-01-10
+202,Dupont,Jean,jean.dupont@outlook.com,%d-%m-%Y,MA,01300,11 269,14,2024/01/10
+203,Leroy,paul,paul leroy@gmail.com,%Y-%m-%d,MA,75 000,11090,4,2024-01-10
+204,Dupont,amine,amine dupont@domain.com,%d/%m/%Y,france,16000,1071,4,2024-01-10
+205,Haddad,Awa,awa.haddad@domain.com,%Y-%m-%d,Tunisie,01300,8 731,18,2024-01-10
+206,BENALI,Karim,karim.benali@gmail.com,%Y-%m-%d,France,31000,6694,2,2024/01/10
+207,Diallo,Amine,amine.diallo@gmail.com,%Y-%m-%d,France,01300,11782,7,2024/01/10
+208,Benali,Amine,amine.benaliyahoo.com,%d/%m/%Y,Tunisie,16000,6595 €,18,10/01/2024
+209,Benali,Paul,paul.benali@domain.com,%d-%m-%Y,TN,31000,8884,7,2024-01-10
+210,DUPONT,amine,amine.dupont@outlook.com,%d/%m/%Y,DZ,01300,4094,9,2024/01/10
+211,Martin,paul,paul.martindomain.com,%d-%m-%Y,Maroc,31000,11461,0,10/01/2024
+212,Petit,Awa,awa petit@gmail.com,%d-%m-%Y,DZ,31000,1052,3,2024/01/10
+213,Benali,Marie,marie.benali@domain.com,%d/%m/%Y,france,31000,9930,1,10/01/2024
+214,DURAND,sophie,sophie durand@outlook.com,%d/%m/%Y,Algerie,75 000,11413,6,2024/01/10
+215,Leroy,Marie,marie.leroy@yahoo.com,%Y-%m-%d,DZ,31000,9 604,19,10/01/2024
+216,Dupont,amine,amine.dupont@domain.com,%d-%m-%Y,MA,16000,5 440,6,2024/01/10
+217,Haddad,Jean,jean.haddad@yahoo.com,%d-%m-%Y,FR,75 000,2547 €,1,10/01/2024
+218,Martin,Lina,lina.martin@domain.com,%d/%m/%Y,france,16000,1271,19,2024/01/10
+219,Diallo,Jean,jean.diallo@yahoo.com,%d-%m-%Y,FR,16000,8725,12,2024/01/10
+220,Leroy,claire,claire.leroy@outlook.com,%d-%m-%Y,MA,75 000,2 133,7,2024/01/10
+221,NGUYEN,Claire,claire.nguyen@domain.com,%Y-%m-%d,MA,31000,5780,0,2024-01-10
+222,Durand,lucas,lucas.durand@gmail.com,%d/%m/%Y,Algerie,31000,3923 €,19,2024-01-10
+223,Moreau,Lucas,lucas.moreau@outlook.com,%d-%m-%Y,France,31000,4968,11,2024-01-10
+224,Moreau,claire,claire.moreau@domain.com,%d/%m/%Y,France,16000,2 106,17,2024-01-10
+225,Diallo,Lucas,lucas.diallo@gmail.com,%d-%m-%Y,MA,31000,13964 €,1,2024/01/10
+226,MARTIN,claire,claire.martingmail.com,%Y-%m-%d,DZ,01300,10089,19,2024-01-10
+227,Benali,lina,lina.benali@yahoo.com,%Y-%m-%d,Maroc,31000,10238 €,7,2024/01/10
+228,Moreau,Sophie,sophie.moreau@gmail.com,%d-%m-%Y,Tunisie,01300,7677,4,2024-01-10
+229,DURAND,Sophie,sophie durand@gmail.com,%Y-%m-%d,Maroc,16000,8286,1,2024/01/10
+230,Petit,claire,claire.petit@outlook.com,%d/%m/%Y,TN,16000,12 915,7,10/01/2024
+231,Leroy,Marie,marie.leroy@yahoo.com,%Y-%m-%d,Tunisie,16000,14 132,7,2024-01-10
+232,Petit,amine,amine.petit@outlook.com,%d/%m/%Y,DZ,75000,8360 €,0,10/01/2024
+233,DUPONT,Claire,claire.dupont@gmail.com,%Y-%m-%d,Algerie,75000,5871 €,4,2024/01/10
+234,Nguyen,Karim,karim nguyen@gmail.com,%d/%m/%Y,TN,75 000,14 882,17,2024/01/10
+235,PETIT,jean,jean petit@gmail.com,%Y-%m-%d,TN,31000,11173 €,12,2024/01/10
+236,LEROY,jean,jean.leroy@domain.com,%d-%m-%Y,DZ,75000,11669 €,15,2024/01/10
+237,HADDAD,Karim,karim.haddad@outlook.com,%Y-%m-%d,FR,75 000,13 181,13,2024/01/10
+238,Diallo,Karim,karim diallo@yahoo.com,%d/%m/%Y,TN,16000,13380,18,2024-01-10
+239,PETIT,Jean,jean.petit@gmail.com,%d/%m/%Y,DZ,75 000,4561,5,10/01/2024
+240,MARTIN,sophie,sophie.martin@outlook.com,%d/%m/%Y,France,75 000,9461,1,2024-01-10
+241,Haddad,karim,karim.haddad@gmail.com,%d-%m-%Y,MA,75 000,11453 €,10,2024/01/10
+242,Diallo,Awa,awa.diallo@yahoo.com,%Y-%m-%d,Tunisie,01300,12425,18,10/01/2024
+243,Haddad,Sophie,sophie haddad@outlook.com,%d-%m-%Y,france,75000,2439,1,10/01/2024
+244,Martin,Claire,claire.martin@gmail.com,%d/%m/%Y,Maroc,75000,8794 €,18,2024/01/10
+245,Nguyen,awa,awa nguyen@domain.com,%Y-%m-%d,Algerie,16000,8 794,16,2024/01/10
+246,MARTIN,amine,amine martin@yahoo.com,%Y-%m-%d,Algerie,01300,13 106,11,2024-01-10
+247,Diallo,Lucas,lucas.diallo@gmail.com,%d/%m/%Y,Tunisie,31000,6120 €,1,10/01/2024
+248,DUPONT,jean,jean dupont@outlook.com,%d-%m-%Y,France,16000,4912,7,2024-01-10
+249,DUPONT,Lina,lina.dupont@yahoo.com,%Y-%m-%d,france,16000,7288 €,10,10/01/2024
+250,Diallo,Jean,jean diallo@yahoo.com,%Y-%m-%d,DZ,31000,11464,1,10/01/2024
+251,Haddad,Karim,karim.haddad@gmail.com,%Y-%m-%d,france,16000,5373,5,10/01/2024
+252,Durand,Lucas,lucas.durand@yahoo.com,%d-%m-%Y,DZ,16000,11531,11,2024/01/10
+253,Haddad,claire,claire.haddad@yahoo.com,%Y-%m-%d,DZ,75000,8 486,12,10/01/2024
+254,Moreau,Paul,paul.moreaudomain.com,%Y-%m-%d,france,75 000,13537 €,12,10/01/2024
+255,DURAND,Jean,jean.durand@gmail.com,%Y-%m-%d,France,01300,5454 €,15,2024/01/10
+256,Benali,sophie,sophie.benali@domain.com,%d/%m/%Y,DZ,75000,10881 €,14,2024-01-10
+257,Benali,Awa,awa.benali@outlook.com,%Y-%m-%d,FR,75 000,5742,11,10/01/2024
+258,Martin,Lucas,lucas.martin@yahoo.com,%d/%m/%Y,FR,75000,8295,7,2024-01-10
+259,Nguyen,Lina,lina nguyen@yahoo.com,%d/%m/%Y,FR,16000,6698,1,10/01/2024
+260,MARTIN,awa,awa.martin@outlook.com,%Y-%m-%d,MA,31000,10786,10,2024/01/10
+261,Nguyen,Marie,marie.nguyen@domain.com,%Y-%m-%d,FR,75000,14818 €,0,2024/01/10
+262,MOREAU,Paul,paul.moreau@outlook.com,%d-%m-%Y,TN,16000,7329,14,2024-01-10
+263,Martin,Sophie,sophie.martindomain.com,%d/%m/%Y,France,01300,4580,0,2024/01/10
+264,Diallo,karim,karim.diallo@domain.com,%d/%m/%Y,France,31000,1504,20,2024-01-10
+265,Haddad,marie,marie.haddad@gmail.com,%Y-%m-%d,TN,31000,8678,5,2024/01/10
+266,DUPONT,Lucas,lucas.dupont@domain.com,%d-%m-%Y,FR,31000,12766,19,2024-01-10
+267,Dupont,Amine,amine.dupont@yahoo.com,%d/%m/%Y,Maroc,75 000,11624,17,2024/01/10
+268,Leroy,paul,paul.leroy@outlook.com,%d/%m/%Y,MA,16000,2531,9,2024/01/10
+269,Moreau,paul,paul.moreau@gmail.com,%d/%m/%Y,Tunisie,75 000,11657,1,2024/01/10
+270,MARTIN,Sophie,sophie.martin@gmail.com,%d/%m/%Y,France,01300,12819,3,10/01/2024
+271,Haddad,Jean,jean.haddad@domain.com,%d/%m/%Y,FR,01300,1069,16,2024/01/10
+272,Durand,Karim,karim.durand@gmail.com,%d-%m-%Y,France,31000,3154 €,14,10/01/2024
+273,Dupont,marie,marie.dupont@outlook.com,%d-%m-%Y,Tunisie,16000,7328 €,20,2024-01-10
+274,Moreau,Sophie,sophie.moreau@gmail.com,%Y-%m-%d,Maroc,16000,13042 €,13,2024-01-10
+275,MOREAU,paul,paul.moreau@yahoo.com,%Y-%m-%d,TN,75 000,8 184,15,2024/01/10
+276,Durand,Lina,lina.durand@outlook.com,%Y-%m-%d,France,31000,9142 €,16,2024-01-10
+277,Petit,lina,lina.petit@outlook.com,%d/%m/%Y,France,16000,9 313,15,2024-01-10
+278,Leroy,marie,marie.leroy@yahoo.com,%d-%m-%Y,france,16000,7085,6,10/01/2024
+279,PETIT,Paul,paul.petit@yahoo.com,%d-%m-%Y,France,75 000,14163 €,15,2024/01/10
+280,LEROY,karim,karim.leroy@yahoo.com,%d/%m/%Y,DZ,75 000,8748 €,11,2024-01-10
+281,PETIT,lina,lina.petit@domain.com,%d/%m/%Y,Maroc,31000,8047,12,10/01/2024
+282,Moreau,Karim,karim.moreau@domain.com,%d-%m-%Y,Algerie,31000,14070,9,10/01/2024
+283,Martin,Jean,jean martin@domain.com,%d/%m/%Y,DZ,16000,7 997,12,2024-01-10
+284,NGUYEN,Paul,paul.nguyen@gmail.com,%Y-%m-%d,MA,75 000,14818,6,10/01/2024
+285,Leroy,Amine,amine.leroy@outlook.com,%d-%m-%Y,Tunisie,75 000,2306,6,2024/01/10
+286,Dupont,Amine,amine.dupont@outlook.com,%d/%m/%Y,FR,01300,12002 €,10,2024-01-10
+287,Moreau,Paul,paul.moreau@domain.com,%d/%m/%Y,FR,16000,14155 €,18,10/01/2024
+288,BENALI,Sophie,sophie benali@outlook.com,%d/%m/%Y,FR,75000,8553,16,2024-01-10
+289,Petit,lucas,lucas petit@yahoo.com,%d/%m/%Y,DZ,31000,14931,13,2024-01-10
+290,DURAND,Amine,amine.durand@gmail.com,%Y-%m-%d,MA,01300,12560,7,2024-01-10
+291,Haddad,Lina,lina.haddad@gmail.com,%d-%m-%Y,Maroc,16000,5 529,7,2024/01/10
+292,Diallo,Awa,awa.diallo@outlook.com,%Y-%m-%d,France,01300,7362 €,2,2024-01-10
+293,NGUYEN,Paul,paul.nguyen@gmail.com,%Y-%m-%d,Tunisie,75 000,9742,4,10/01/2024
+294,Haddad,Jean,jean.haddad@outlook.com,%Y-%m-%d,france,01300,9121 €,6,2024-01-10
+295,Durand,Marie,marie.durand@gmail.com,%d/%m/%Y,Algerie,16000,12027,16,2024/01/10
+296,Nguyen,Lucas,lucas nguyen@domain.com,%Y-%m-%d,MA,75 000,14311 €,2,2024/01/10
+297,Diallo,Karim,karim.diallo@outlook.com,%d/%m/%Y,MA,75 000,9289,4,10/01/2024
+298,Benali,amine,amine.benali@yahoo.com,%d/%m/%Y,TN,75000,6158 €,8,2024/01/10
+299,BENALI,Paul,paul benali@outlook.com,%Y-%m-%d,DZ,75 000,13144,1,2024/01/10
+300,Diallo,Paul,paul.diallo@outlook.com,%d/%m/%Y,Algerie,01300,1472,8,2024-01-10
+301,NGUYEN,Claire,claire nguyenoutlook.com,%d-%m-%Y,france,16000,6587 €,9,2024/01/10
+302,Moreau,jean,jean.moreau@domain.com,%d/%m/%Y,MA,16000,10702,15,2024-01-10
+303,Haddad,sophie,sophie haddad@yahoo.com,%Y-%m-%d,Maroc,01300,5450,3,2024/01/10
+304,Dupont,lucas,lucas.dupont@domain.com,%d/%m/%Y,MA,75 000,7814,3,10/01/2024
+305,Benali,Lina,lina.benali@domain.com,%Y-%m-%d,FR,75000,4122,4,2024/01/10
+306,Moreau,Marie,marie moreau@yahoo.com,%d-%m-%Y,France,01300,10 376,2,10/01/2024
+307,Nguyen,Paul,paul nguyen@yahoo.com,%d/%m/%Y,MA,75 000,6121,15,10/01/2024
+308,NGUYEN,Paul,paul.nguyen@yahoo.com,%d-%m-%Y,Algerie,31000,13467,17,2024/01/10
+309,Martin,Amine,amine.martin@gmail.com,%d-%m-%Y,Maroc,31000,11929 €,18,10/01/2024
+310,Haddad,Claire,claire.haddad@yahoo.com,%d-%m-%Y,TN,31000,11975 €,13,10/01/2024
+311,BENALI,Lucas,lucas.benali@yahoo.com,%d/%m/%Y,France,75000,13818,14,2024/01/10
+312,Diallo,Paul,paul.diallo@outlook.com,%Y-%m-%d,Algerie,75 000,1731,2,10/01/2024
+313,Haddad,Sophie,sophie.haddad@domain.com,%Y-%m-%d,Algerie,75000,7221,6,10/01/2024
+314,Dupont,Lucas,lucas.dupont@yahoo.com,%d/%m/%Y,TN,75000,14376,0,2024/01/10
+315,Diallo,Awa,awa.diallodomain.com,%d/%m/%Y,MA,75 000,1 084,20,2024/01/10
+316,Petit,Jean,jean.petit@domain.com,%d/%m/%Y,FR,16000,6188 €,8,2024/01/10
+317,Haddad,Awa,awa haddad@domain.com,%d/%m/%Y,Maroc,75 000,6587 €,13,2024/01/10
+318,Diallo,sophie,sophie diallo@outlook.com,%Y-%m-%d,DZ,16000,9968,19,10/01/2024
+319,LEROY,Karim,karim.leroy@gmail.com,%Y-%m-%d,France,31000,14486,20,10/01/2024
+320,Diallo,Paul,paul diallo@yahoo.com,%Y-%m-%d,Maroc,01300,7589,12,2024/01/10
+321,Martin,Claire,claire.martin@outlook.com,%Y-%m-%d,France,75000,7361,12,2024/01/10
+322,DURAND,Amine,amine.durand@outlook.com,%d-%m-%Y,Algerie,75000,10221 €,0,2024/01/10
+323,Nguyen,Paul,paul nguyen@outlook.com,%d-%m-%Y,france,75 000,14845,4,10/01/2024
+324,BENALI,Lucas,lucas.benali@outlook.com,%d/%m/%Y,MA,75 000,5010 €,18,10/01/2024
+325,NGUYEN,lucas,lucas nguyen@yahoo.com,%d-%m-%Y,Maroc,75000,10367,7,10/01/2024
+326,LEROY,awa,awa leroy@outlook.com,%d/%m/%Y,Algerie,75 000,8073 €,3,2024/01/10
+327,Dupont,Paul,paul.dupont@gmail.com,%d-%m-%Y,france,16000,13217,12,10/01/2024
+328,Durand,Amine,amine.durand@domain.com,%Y-%m-%d,FR,01300,14041 €,7,2024-01-10
+329,DIALLO,jean,jean.diallo@yahoo.com,%d/%m/%Y,FR,16000,10494,12,2024/01/10
+330,Nguyen,Sophie,sophie nguyen@gmail.com,%d-%m-%Y,Maroc,01300,7401 €,17,2024-01-10
+331,Petit,Sophie,sophie.petit@gmail.com,%Y-%m-%d,MA,31000,4799,5,10/01/2024
+332,Martin,karim,karim.martin@gmail.com,%d-%m-%Y,Tunisie,16000,8728 €,2,2024-01-10
+333,Benali,Amine,amine.benali@gmail.com,%d-%m-%Y,Algerie,16000,4367,11,10/01/2024
+334,Diallo,marie,marie.diallo@yahoo.com,%d/%m/%Y,Algerie,01300,10131,5,2024/01/10
+335,MOREAU,Karim,karim.moreau@yahoo.com,%d-%m-%Y,TN,16000,10057,14,2024/01/10
+336,DUPONT,Lucas,lucas.dupont@domain.com,%d-%m-%Y,france,31000,1603,16,10/01/2024
+337,Haddad,Sophie,sophie.haddad@yahoo.com,%d-%m-%Y,France,75 000,4103 €,11,2024/01/10
+338,Petit,Sophie,sophie.petit@yahoo.com,%d/%m/%Y,France,75 000,11253,1,2024-01-10
+339,LEROY,paul,paul.leroy@outlook.com,%Y-%m-%d,FR,75000,1721 €,13,2024-01-10
+340,Nguyen,Lina,lina.nguyen@outlook.com,%d-%m-%Y,DZ,01300,3436,12,2024/01/10
+341,Haddad,Amine,amine.haddad@gmail.com,%Y-%m-%d,france,16000,10033 €,3,10/01/2024
+342,Petit,jean,jean.petit@outlook.com,%Y-%m-%d,DZ,16000,8355,16,2024/01/10
+343,Diallo,Sophie,sophie diallo@domain.com,%d-%m-%Y,Algerie,01300,2184,5,2024/01/10
+344,Haddad,Karim,karim.haddad@domain.com,%d-%m-%Y,France,01300,9492 €,15,2024-01-10
+345,Martin,Lina,lina.martin@domain.com,%d/%m/%Y,MA,75 000,6295,5,10/01/2024
+346,Haddad,lucas,lucas haddad@yahoo.com,%d-%m-%Y,France,31000,12604,17,10/01/2024
+347,Moreau,claire,claire.moreau@outlook.com,%Y-%m-%d,MA,01300,7853,8,2024/01/10
+348,Diallo,Sophie,sophie.diallo@domain.com,%d/%m/%Y,DZ,01300,14 340,10,10/01/2024
+349,Moreau,Claire,claire.moreau@outlook.com,%d/%m/%Y,Algerie,75 000,5333 €,7,2024/01/10
+350,Dupont,Lucas,lucas dupontdomain.com,%d-%m-%Y,MA,75 000,14725 €,12,10/01/2024
+351,DUPONT,amine,amine.dupont@outlook.com,%d/%m/%Y,MA,31000,14319 €,4,10/01/2024
+352,Durand,Marie,marie durandoutlook.com,%d-%m-%Y,DZ,75000,14629,14,2024-01-10
+353,BENALI,Jean,jean.benali@yahoo.com,%d/%m/%Y,DZ,31000,13148,1,2024/01/10
+354,Durand,Paul,paul.durand@gmail.com,%Y-%m-%d,DZ,75000,12525,0,2024/01/10
+355,Leroy,Lucas,lucas leroy@domain.com,%Y-%m-%d,france,75000,11431,12,2024-01-10
+356,Diallo,Marie,marie diallo@outlook.com,%d/%m/%Y,Algerie,75000,6346 €,15,10/01/2024
+357,Haddad,amine,amine.haddad@gmail.com,%d/%m/%Y,France,16000,13214 €,11,2024-01-10
+358,Martin,sophie,sophie.martin@gmail.com,%d/%m/%Y,Algerie,31000,3521,10,2024-01-10
+359,Petit,marie,marie.petitdomain.com,%d-%m-%Y,TN,16000,3280,20,2024/01/10
+360,Diallo,Awa,awa.diallo@yahoo.com,%d/%m/%Y,DZ,75 000,11 841,4,2024/01/10
+361,Diallo,sophie,sophie.diallo@domain.com,%d-%m-%Y,MA,31000,13147,13,2024-01-10
+362,Moreau,Claire,claire moreauoutlook.com,%Y-%m-%d,FR,16000,1095 €,12,2024-01-10
+363,Dupont,claire,claire dupont@domain.com,%Y-%m-%d,Maroc,75 000,9306,2,2024/01/10
+364,Haddad,Karim,karim haddad@gmail.com,%d-%m-%Y,france,75 000,5 922,13,2024-01-10
+365,Moreau,Lina,lina.moreau@domain.com,%d-%m-%Y,france,01300,3058 €,14,2024-01-10
+366,Leroy,Lina,lina.leroydomain.com,%d/%m/%Y,Algerie,75 000,6223 €,5,2024/01/10
+367,LEROY,Claire,claire.leroy@outlook.com,%d-%m-%Y,FR,16000,13099 €,9,2024/01/10
+368,Dupont,paul,paul dupont@outlook.com,%Y-%m-%d,Tunisie,16000,11314 €,2,10/01/2024
+369,Moreau,Paul,paul.moreau@yahoo.com,%d/%m/%Y,Algerie,31000,13458,0,2024/01/10
+370,Nguyen,Sophie,sophie.nguyenoutlook.com,%d/%m/%Y,Algerie,16000,11404,4,2024/01/10
+371,DURAND,Amine,amine.durand@gmail.com,%Y-%m-%d,Algerie,16000,5533,0,2024/01/10
+372,Diallo,lucas,lucas.diallo@outlook.com,%d-%m-%Y,FR,75 000,11261,6,10/01/2024
+373,Leroy,awa,awa.leroy@outlook.com,%d-%m-%Y,Tunisie,75 000,13308 €,3,2024-01-10
+374,Martin,lina,lina.martin@domain.com,%d/%m/%Y,Tunisie,31000,1265,14,2024/01/10
+375,DUPONT,Lina,lina.dupont@gmail.com,%d-%m-%Y,MA,75 000,14200,20,2024/01/10
+376,Petit,Sophie,sophie.petit@outlook.com,%d/%m/%Y,Maroc,75 000,7186,7,2024-01-10
+377,Moreau,Karim,karim.moreau@outlook.com,%d-%m-%Y,FR,31000,9277,14,2024/01/10
+378,Petit,marie,marie.petit@yahoo.com,%Y-%m-%d,MA,16000,2258,2,2024/01/10
+379,Leroy,Jean,jean.leroy@outlook.com,%Y-%m-%d,Maroc,01300,6 842,3,2024-01-10
+380,Moreau,lucas,lucas.moreau@outlook.com,%d-%m-%Y,France,16000,12840,14,10/01/2024
+381,Leroy,karim,karim.leroy@yahoo.com,%d-%m-%Y,Maroc,75 000,3214,13,2024-01-10
+382,NGUYEN,Lucas,lucas nguyen@outlook.com,%Y-%m-%d,FR,16000,1 723,9,2024-01-10
+383,DURAND,awa,awa.durand@gmail.com,%Y-%m-%d,MA,75000,8193,13,2024-01-10
+384,Martin,Claire,claire.martinoutlook.com,%d/%m/%Y,France,01300,7687 €,16,2024/01/10
+385,Durand,jean,jean.durand@domain.com,%d/%m/%Y,TN,75 000,2346 €,16,2024-01-10
+386,LEROY,Claire,claire.leroy@domain.com,%d/%m/%Y,MA,31000,2980,17,2024-01-10
+387,LEROY,Marie,marie.leroy@outlook.com,%d/%m/%Y,Tunisie,31000,8368 €,5,10/01/2024
+388,Haddad,paul,paul.haddad@outlook.com,%d/%m/%Y,DZ,01300,7694,12,2024-01-10
+389,Diallo,Claire,claire.diallo@yahoo.com,%d/%m/%Y,Tunisie,01300,9694,13,10/01/2024
+390,Diallo,karim,karim.diallo@yahoo.com,%d-%m-%Y,Tunisie,75 000,1831,4,2024-01-10
+391,Benali,Sophie,sophie.benali@yahoo.com,%Y-%m-%d,MA,16000,6805,0,2024-01-10
+392,BENALI,claire,claire.benali@gmail.com,%Y-%m-%d,MA,01300,4 962,4,2024-01-10
+393,HADDAD,Sophie,sophie.haddad@domain.com,%Y-%m-%d,TN,75 000,4148,1,2024-01-10
+394,Haddad,Sophie,sophie.haddadgmail.com,%d-%m-%Y,Algerie,75000,11022,9,2024-01-10
+395,Moreau,Sophie,sophie.moreau@outlook.com,%Y-%m-%d,france,01300,13362 €,9,2024/01/10
+396,NGUYEN,Sophie,sophie.nguyen@outlook.com,%d-%m-%Y,france,16000,9377,8,2024/01/10
+397,Durand,lina,lina.durand@gmail.com,%Y-%m-%d,Tunisie,75 000,11022 €,4,2024/01/10
+398,Diallo,Sophie,sophie.diallo@yahoo.com,%d/%m/%Y,France,31000,11738,14,10/01/2024
+399,Diallo,Claire,claire.diallo@gmail.com,%Y-%m-%d,Maroc,75000,9874,15,10/01/2024
+400,Durand,lina,lina.durand@domain.com,%d-%m-%Y,Maroc,16000,14888,8,2024/01/10
+401,Martin,Awa,awa martin@yahoo.com,%d/%m/%Y,MA,75000,8264,6,2024-01-10
+402,Dupont,Paul,paul.dupont@outlook.com,%d-%m-%Y,france,31000,4890,12,2024/01/10
+403,Haddad,Marie,marie.haddad@domain.com,%Y-%m-%d,Tunisie,16000,1762,14,2024/01/10
+404,Diallo,karim,karim.diallo@outlook.com,%d/%m/%Y,France,75000,11 597,1,10/01/2024
+405,Benali,jean,jean.benali@domain.com,%Y-%m-%d,TN,31000,3834,12,2024-01-10
+406,DUPONT,Jean,jean.dupont@outlook.com,%d/%m/%Y,FR,01300,5562,4,2024/01/10
+407,Durand,Awa,awa.durand@gmail.com,%d/%m/%Y,Algerie,16000,10585,11,2024/01/10
+408,Haddad,Claire,claire.haddad@outlook.com,%d-%m-%Y,France,31000,12 255,16,2024/01/10
+409,HADDAD,Sophie,sophie.haddad@outlook.com,%Y-%m-%d,DZ,75000,2733,2,10/01/2024
+410,Haddad,Lina,lina.haddad@domain.com,%d-%m-%Y,TN,75000,5855,10,2024-01-10
+411,MARTIN,sophie,sophie martin@yahoo.com,%d/%m/%Y,FR,16000,2229,5,2024/01/10
+412,Diallo,Amine,amine diallodomain.com,%Y-%m-%d,TN,31000,6875,7,2024/01/10
+413,Moreau,jean,jean moreauyahoo.com,%d/%m/%Y,MA,31000,14728,5,2024-01-10
+414,Haddad,Claire,claire.haddad@outlook.com,%Y-%m-%d,Algerie,75000,2940,5,2024/01/10
+415,NGUYEN,claire,claire.nguyen@outlook.com,%Y-%m-%d,DZ,75000,2 618,6,2024/01/10
+416,Dupont,Jean,jean.dupont@gmail.com,%Y-%m-%d,france,31000,4797 €,6,10/01/2024
+417,Dupont,paul,paul.dupontoutlook.com,%d-%m-%Y,DZ,31000,12353 €,17,2024/01/10
+418,LEROY,karim,karim.leroy@outlook.com,%d-%m-%Y,france,01300,3 829,20,2024/01/10
+419,MOREAU,Lucas,lucas.moreau@gmail.com,%d-%m-%Y,Maroc,75 000,10610 €,0,2024-01-10
+420,PETIT,amine,amine.petit@domain.com,%Y-%m-%d,Maroc,31000,7959 €,5,10/01/2024
+421,Martin,lina,lina martin@domain.com,%Y-%m-%d,Maroc,31000,5 011,7,10/01/2024
+422,PETIT,Marie,marie.petit@outlook.com,%d/%m/%Y,Algerie,31000,8174 €,20,2024/01/10
+423,Martin,Amine,amine.martin@yahoo.com,%d/%m/%Y,france,16000,13522 €,4,2024-01-10
+424,Petit,karim,karim.petit@domain.com,%Y-%m-%d,MA,75000,7179 €,11,10/01/2024
+425,Diallo,Claire,claire.diallo@yahoo.com,%d-%m-%Y,DZ,01300,7 502,19,10/01/2024
+426,HADDAD,Jean,jean.haddad@outlook.com,%d-%m-%Y,Tunisie,01300,13 366,14,10/01/2024
+427,Diallo,Paul,paul.diallo@outlook.com,%d-%m-%Y,FR,01300,2243 €,10,2024-01-10
+428,Benali,Sophie,sophie.benali@yahoo.com,%Y-%m-%d,TN,31000,7975 €,12,2024/01/10
+429,HADDAD,Jean,jean.haddad@yahoo.com,%d/%m/%Y,france,31000,11176 €,6,2024/01/10
+430,Diallo,Claire,claire.diallo@gmail.com,%d-%m-%Y,TN,31000,5105,8,10/01/2024
+431,Haddad,Jean,jean haddad@domain.com,%Y-%m-%d,france,16000,12 250,2,10/01/2024
+432,MARTIN,Karim,karim.martin@outlook.com,%d/%m/%Y,Maroc,01300,3503 €,13,10/01/2024
+433,Petit,Paul,paul.petityahoo.com,%Y-%m-%d,FR,31000,4559,6,10/01/2024
+434,Dupont,Lucas,lucas.dupont@outlook.com,%d-%m-%Y,MA,75 000,14155,2,10/01/2024
+435,DIALLO,Sophie,sophie.diallo@domain.com,%d/%m/%Y,MA,01300,5923 €,14,10/01/2024
+436,Moreau,Paul,paul moreau@outlook.com,%Y-%m-%d,MA,75 000,14178,10,2024-01-10
+437,Leroy,claire,claire.leroy@gmail.com,%d/%m/%Y,Algerie,01300,5745,5,2024-01-10
+438,Benali,Claire,claire.benali@outlook.com,%d-%m-%Y,Maroc,31000,1633,16,2024/01/10
+439,DIALLO,amine,amine.diallo@yahoo.com,%d/%m/%Y,MA,31000,11166,7,2024-01-10
+440,Martin,Amine,amine.martin@domain.com,%d/%m/%Y,france,16000,7171 €,6,10/01/2024
+441,Martin,Claire,claire.martin@gmail.com,%Y-%m-%d,France,75000,5842,2,10/01/2024
+442,Dupont,sophie,sophie.dupont@gmail.com,%d-%m-%Y,FR,16000,8407 €,15,2024/01/10
+443,DIALLO,Lucas,lucas.diallo@gmail.com,%d-%m-%Y,TN,31000,12555,1,10/01/2024
+444,Leroy,sophie,sophie leroy@domain.com,%d-%m-%Y,France,75 000,6560,2,2024/01/10
+445,Diallo,karim,karim.diallo@domain.com,%d-%m-%Y,DZ,75000,7728,3,2024-01-10
+446,Petit,Amine,amine.petitgmail.com,%d-%m-%Y,Algerie,75000,13935,14,2024-01-10
+447,Moreau,awa,awa.moreau@yahoo.com,%d/%m/%Y,TN,75000,12758 €,17,2024/01/10
+448,Diallo,Jean,jean diallo@domain.com,%d-%m-%Y,DZ,31000,13539,11,2024-01-10
+449,Nguyen,lucas,lucas.nguyen@outlook.com,%d-%m-%Y,MA,31000,6 060,0,2024-01-10
+450,BENALI,Sophie,sophie.benali@yahoo.com,%Y-%m-%d,France,01300,12230,10,2024/01/10
+451,Haddad,lina,lina.haddad@yahoo.com,%d-%m-%Y,FR,16000,9313 €,0,2024/01/10
+452,Benali,Amine,amine.benali@yahoo.com,%Y-%m-%d,MA,31000,14922 €,18,10/01/2024
+453,DUPONT,Lucas,lucas.dupont@gmail.com,%Y-%m-%d,DZ,75 000,4235,5,2024-01-10
+454,DURAND,Karim,karim.durand@gmail.com,%Y-%m-%d,Tunisie,75 000,9407,8,2024/01/10
+455,DIALLO,Lina,lina.diallo@yahoo.com,%d-%m-%Y,DZ,75 000,2209,13,2024-01-10
+456,Petit,Amine,amine.petit@yahoo.com,%d/%m/%Y,Tunisie,31000,8476,1,2024-01-10
+457,Petit,Sophie,sophie.petit@domain.com,%d/%m/%Y,TN,16000,12 438,6,2024-01-10
+458,HADDAD,Jean,jean.haddad@domain.com,%d-%m-%Y,Maroc,75000,7110,9,2024-01-10
+459,Benali,awa,awa.benali@yahoo.com,%d/%m/%Y,Algerie,75000,11 337,13,2024/01/10
+460,Diallo,Sophie,sophie.diallo@domain.com,%d/%m/%Y,MA,75 000,11379 €,7,2024/01/10
+461,Durand,Paul,paul.durand@outlook.com,%Y-%m-%d,Tunisie,16000,7387,10,2024/01/10
+462,Petit,Amine,amine.petit@yahoo.com,%Y-%m-%d,france,75 000,5969 €,4,10/01/2024
+463,Diallo,awa,awa diallo@yahoo.com,%Y-%m-%d,Maroc,75000,4515 €,12,2024/01/10
+464,Haddad,Sophie,sophie.haddad@yahoo.com,%d/%m/%Y,france,75 000,14135,3,10/01/2024
+465,Leroy,Lucas,lucas.leroy@yahoo.com,%d/%m/%Y,Tunisie,16000,3 542,0,2024-01-10
+466,Dupont,Lina,lina.dupont@yahoo.com,%d-%m-%Y,France,01300,7177 €,8,2024/01/10
+467,Leroy,Paul,paul.leroy@yahoo.com,%Y-%m-%d,Algerie,75000,9683,2,2024-01-10
+468,Dupont,Paul,paul dupont@outlook.com,%d-%m-%Y,TN,75 000,4562,14,10/01/2024
+469,Petit,Karim,karim.petit@outlook.com,%d-%m-%Y,MA,75000,5 094,15,2024/01/10
+470,Benali,paul,paul.benali@outlook.com,%d/%m/%Y,Maroc,31000,10620,6,10/01/2024
+471,DURAND,Awa,awa durand@outlook.com,%d-%m-%Y,TN,16000,13056,14,2024/01/10
+472,Diallo,Jean,jean diallo@outlook.com,%d-%m-%Y,TN,16000,4151 €,18,2024-01-10
+473,DUPONT,Lucas,lucas.dupont@gmail.com,%Y-%m-%d,France,31000,7 842,1,10/01/2024
+474,DIALLO,Lina,lina.diallo@gmail.com,%Y-%m-%d,France,16000,5818,13,2024-01-10
+475,HADDAD,sophie,sophie.haddadyahoo.com,%Y-%m-%d,MA,01300,3766,9,2024/01/10
+476,DIALLO,Marie,marie.diallo@outlook.com,%Y-%m-%d,France,01300,5123 €,14,10/01/2024
+477,LEROY,awa,awa.leroy@domain.com,%d/%m/%Y,Maroc,01300,4524 €,20,2024/01/10
+478,Moreau,Awa,awa.moreau@gmail.com,%d-%m-%Y,Tunisie,01300,3381 €,7,2024/01/10
+479,Durand,Claire,claire durand@gmail.com,%d-%m-%Y,Tunisie,75 000,8960,20,10/01/2024
+480,MARTIN,Paul,paul.martin@yahoo.com,%d/%m/%Y,Algerie,75000,8341,13,2024/01/10
+481,DIALLO,Karim,karim.diallo@gmail.com,%d/%m/%Y,FR,16000,13527 €,20,10/01/2024
+482,Moreau,Lina,lina.moreau@outlook.com,%Y-%m-%d,TN,75000,1843 €,15,2024/01/10
+483,Martin,Paul,paul.martin@outlook.com,%d-%m-%Y,DZ,75000,12616,20,2024/01/10
+484,Durand,Paul,paul.durand@yahoo.com,%d-%m-%Y,Tunisie,75 000,4482,1,2024-01-10
+485,Martin,Jean,jean.martin@yahoo.com,%d-%m-%Y,France,16000,7883 €,1,2024-01-10
+486,Martin,Lucas,lucas.martin@domain.com,%Y-%m-%d,TN,75000,10134,0,2024/01/10
+487,Petit,Claire,claire.petit@domain.com,%d/%m/%Y,France,01300,12063,15,2024-01-10
+488,BENALI,lucas,lucas.benali@yahoo.com,%d-%m-%Y,FR,01300,5823 €,15,10/01/2024
+489,Benali,lucas,lucas.benali@gmail.com,%d-%m-%Y,MA,75 000,12663,4,10/01/2024
+490,MOREAU,jean,jean moreau@yahoo.com,%d-%m-%Y,FR,16000,11808 €,11,10/01/2024
+491,Moreau,paul,paul moreau@gmail.com,%Y-%m-%d,France,75 000,5811,6,2024-01-10
+492,Martin,Jean,jean.martin@domain.com,%d-%m-%Y,DZ,16000,6778,18,2024/01/10
+493,Martin,karim,karim.martin@yahoo.com,%d/%m/%Y,france,75 000,14121,12,2024-01-10
+494,Durand,lucas,lucas.durand@yahoo.com,%Y-%m-%d,france,16000,7743,19,2024/01/10
+495,Diallo,claire,claire.diallo@domain.com,%Y-%m-%d,france,01300,4681 €,8,2024/01/10
+496,Moreau,awa,awa.moreaugmail.com,%d-%m-%Y,FR,31000,4 598,0,10/01/2024
+497,LEROY,karim,karim.leroy@gmail.com,%Y-%m-%d,TN,31000,7188 €,14,2024-01-10
+498,DUPONT,Karim,karim.dupont@gmail.com,%Y-%m-%d,MA,75 000,11605,4,10/01/2024
+499,Martin,Claire,claire.martin@gmail.com,%d-%m-%Y,TN,75 000,3002,9,2024-01-10
+500,NGUYEN,Marie,marie.nguyen@outlook.com,%d-%m-%Y,Tunisie,01300,4117,17,2024-01-10
